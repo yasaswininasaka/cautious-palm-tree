@@ -1,2 +1,2 @@
 # cautious-palm-tree
-develop all palm tree APIs
+develop green & yellow palm tree APIs
